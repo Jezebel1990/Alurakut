@@ -274,11 +274,21 @@ export function OrkutNostalgicIconSet(props) {
                 const isHeartActive = index <= (total - 1);
                 return <img key={`orkut__icon_set__${slug}_img_${index}`} src={`https://alurakut.vercel.app/icons/${icon}.svg`} style={{ marginRight: '2px', opacity: isHeartActive ? 1 : '0.5' }} />
               })}
-            </span>
-          </li>
-        );
+             </span>
+             
+           </li>
+          );
       })}
+       <div>
+      
+       <p className="Title"><b>Sorte de hoje:</b> A pessoa que lê sua sorte
+        entrou em greve. Faça um pix hoje a uma pessoa e sua sorte irá mudar!</p>
+      </div>
+      
     </OrkutNostalgicIconSet.List>
+    
+    
+    
   )
 }
 OrkutNostalgicIconSet.List = styled.ul`

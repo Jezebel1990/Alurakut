@@ -9,9 +9,12 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
-  body {
+   body {
+    background: url("https://i.imgur.com/4eI7KLV.jpg");
+    background-position: center;
+    background-size: cover;
     font-family: sans-serif;
-    background-color: #D9E6F6;
+
   }
 
   #__next {
