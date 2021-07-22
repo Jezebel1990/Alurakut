@@ -12,4 +12,24 @@ Acompanhe aqui o desenvolvimento do projeto:
 
 ![alurakut](https://user-images.githubusercontent.com/75287031/126598172-69ab3ddb-d87d-43ec-b3d8-cb9024a177d0.png)
 
- Link: https://alurakut-blond-psi.vercel.app/
+
+💬  Sobre o projeto 
+O Alurakut é uma aplicação web clone do antigo Orkut, porém traz uma interface mais moderna com tecnologias distintas. 
+
+
+💻   Como utilizar?
+
+Para utilizar o Alurakut, basta [clicar aqui ](https://alurakut-blond-psi.vercel.app/)
+ 
+ 
+  🚀 Tecnologias
+ 
+Este projeto foi desenvolvido com as tecnologias:
+
+https://img.shields.io/badge/-ReactJS-blue   https://img.shields.io/badge/-Next.js-lightgrey  https://img.shields.io/badge/-DatoCMS-red https://img.shields.io/badge/-React--Toastify-brightgreen
+
+
+📝 License
+This project is under the MIT license. See the LICENSE for more information.
+
+Made with ♥ by [Jezebel Guedes](https://www.linkedin.com/in/jezebel-guedes/) 👋 Get in touch!
