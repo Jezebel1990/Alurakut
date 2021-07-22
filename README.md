@@ -1,6 +1,6 @@
 # Alurakut
 
-<p>Seja bem vindo(a) ao projeto da Alurakut !!!</p>
+<p>Seja bem-vindo(a) ao projeto da Alurakut !!!</p>
 
 <p>Acompanhe aqui o desenvolvimento do projeto:</p>
 
