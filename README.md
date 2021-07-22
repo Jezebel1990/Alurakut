@@ -26,7 +26,10 @@ Para utilizar o Alurakut, basta [clicar aqui ](https://alurakut-blond-psi.vercel
  
 Este projeto foi desenvolvido com as tecnologias:
 
-https://img.shields.io/badge/-ReactJS-blue   https://img.shields.io/badge/-Next.js-lightgrey  https://img.shields.io/badge/-DatoCMS-red https://img.shields.io/badge/-React--Toastify-brightgreen
+https://img.shields.io/badge/-ReactJS-blue   
+https://img.shields.io/badge/-Next.js-lightgrey 
+https://img.shields.io/badge/-DatoCMS-red 
+https://img.shields.io/badge/-React--Toastify-brightgreen
 
 
 📝 License
