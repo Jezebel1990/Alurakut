@@ -12,17 +12,16 @@
 
 ![alurakut](https://user-images.githubusercontent.com/75287031/126598172-69ab3ddb-d87d-43ec-b3d8-cb9024a177d0.png)
 
-
-💬  <h1>Sobre o projeto </h1>
+  <h1>💬Sobre o projeto </h1>
 <p>O Alurakut é uma aplicação web clone do antigo Orkut, porém traz uma interface mais moderna com tecnologias distintas.</p> 
 
 
-💻   <h1>Como utilizar?</h1>
+  <h1>💻Como utilizar?</h1>
 
-<p>Para utilizar o Alurakut, basta [clicar aqui ](https://alurakut-blond-psi.vercel.app/)</p>
+  Para utilizar o Alurakut, basta [clicar aqui ](https://alurakut-blond-psi.vercel.app/)
  
  
-  🚀 <h1>Tecnologias</h1>
+  <h1>🚀Tecnologias</h1>
  
 <p>Este projeto foi desenvolvido com as tecnologias:</p>
 
@@ -30,7 +29,7 @@
  ![Badge](https://img.shields.io/badge/-DatoCMS-red) ![Badge](https://img.shields.io/badge/-React--Toastify-brightgreen)
 
 
-📝 <h1>License</h1>
+ <h1>📝License</h1>
 <p>This project is under the MIT license. See the LICENSE for more information.</p>
 
 Made with ♥ by [Jezebel Guedes](https://www.linkedin.com/in/jezebel-guedes/) 👋 Get in touch!
